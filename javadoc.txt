@@ -1,0 +1,43 @@
+//*
+ Menu.java: classe menu apresenta a mensagem de titulo do jogo.
+/
+
+//*
+ Mafuyu.java: Interface de escolher personagem  Mafuyu.
+/
+
+//*
+ Mapa.java: Classe de escolha de dificuldade e criacao de portas.
+/
+
+//*
+ Portas.java: Classe de criacao de tempo das portas e limite.
+/
+
+//*
+ Seleções.java: Classe de mensagens e escolhas nas opcoes de historia ou comeco do jogo.
+/
+
+//*
+ SeleçõesGameplay.java: Classe de selecao de personagems do jogo, pontuacao e contagem de portas.
+/
+
+//*
+ Sound.java: Classe de soms do jogo.
+/
+
+//*
+ Dica.java: Classe de geracao de dicas.
+/
+
+//*
+ Jogador.java: Interface do jogador.
+/
+
+//*
+ JogadorNumerico.java: Classe de tempo e tentativas por meio de uso de array.
+/
+
+//*
+ JogadorFrases.java: Classe de frases do narrador para o jogador.
+/
